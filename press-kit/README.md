@@ -66,9 +66,8 @@ The fixed hard cap on money supply makes deflationary currency, creating an ince
 
 ### Theis Simonsen
 
-|                                                                      |                        |                                                                  |
-| -------------------------------------------------------------------- | ---------------------- | ---------------------------------------------------------------- |
 | <img src="../team/t-simonsen.jpg" width="60" alt="Theis Simonsen" /> | **CEO and co-founder** | [LinkedIn](https://www.linkedin.com/in/theis-simonsen-32035313/) |
+| -------------------------------------------------------------------- | ---------------------- | ---------------------------------------------------------------- |
 
 
 Theis is an experienced strategist, developer, lecturer, and executive. Before Tagion, Theis served as a senior consultant at KPMG and an external lecturer at Copenhagen Business School. He has driven and founded other companies as well.
