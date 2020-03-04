@@ -6,3 +6,4 @@ This is repository for public resources related to Tagion.
 
 >-  [Tagion Technical Paper](./technical-paper/tagion-technical-paper.pdf)
 >-  [Tagion Whitepaper](./whitepaper/tagion-whitepaper.pdf)
+>-  [Tagion Press Kit](./press-kit)
